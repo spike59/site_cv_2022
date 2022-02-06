@@ -1,0 +1,29 @@
+{
+    "title":"loisirs",
+    "list":[
+        {
+            "desc":"animation", 
+            "iconClass":"fafa"
+        },
+        {
+            "desc":"jeux-videos", 
+            "iconClass":"fas fa-gamepad"
+        },
+        {
+            "desc":"animation", 
+            "iconClass":"fafa"
+        },
+        {
+            "desc":"animation", 
+            "iconClass":"fafa"
+        },
+        {
+            "desc":"animation", 
+            "iconClass":"fafa"
+        },
+        {
+            "desc":"animation", 
+            "iconClass":"fafa"
+        }    
+    ]
+}

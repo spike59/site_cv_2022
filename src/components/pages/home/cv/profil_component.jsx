@@ -4,9 +4,9 @@ export const ProfilComponent = (props) => {
 
 
     return (
-        <>  
+        <section>  
             <h2>{title}</h2>
             {presentation}
-        </>
+        </section>
     )
 }

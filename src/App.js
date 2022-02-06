@@ -9,7 +9,7 @@ import cvProfilData from './data/profil.json';
 import cvSkillsData from './data/skills.json';
 import cvFormationsData from './data/formations.json';
 import cvExperiencesData from './data/experiences.json';
-import cvLoisirsData from './data/loisirs.json';
+import cvHobbiesData from './data/hobbies.json';
 
 const cvData = {
   "head":cvHeadData,
@@ -17,7 +17,7 @@ const cvData = {
   "skills":cvSkillsData,
   "experiences":cvExperiencesData,
   "formations":cvFormationsData,
-  "loisirs":cvLoisirsData
+  "hobbies":cvHobbiesData
 }
 
 const HomePage = React.lazy(() => import('./components/pages/home/home_page'));
