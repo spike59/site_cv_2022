@@ -1,0 +1,25 @@
+{
+    "title":"Formation",
+    "list":[
+        {
+            "year":"2021-2022",
+            "desc":"Titre de Concepteur Développeur d'applications (bac+3/+4)"
+        },
+        {
+            "year":"2020",
+            "desc":"Formation courte React/Java"
+        },
+        {
+            "year":"2004",
+            "desc":"Titre de développeur intranet/internet (bac+2)"
+        },
+        {
+            "year":"2002",
+            "desc":"D.U.T. Gestion de la production"
+        },
+        {
+            "year":"2000",
+            "desc":"Bac Scientifique"
+        }
+    ]
+}

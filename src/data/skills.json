@@ -1,0 +1,37 @@
+{
+    "title":"Compétences",
+    "skills":[
+        {
+            "name":"HTML5", 
+            "icon":"HTML5_logo_and_wordmark.svg"
+        },
+        {
+            "name":"CSS3",
+            "icon":"CSS3_logo_and_wordmark.svg"
+        },
+        {
+            "name":"Sass",
+            "icon":"Sass_Logo_Color.svg"
+        },
+        {
+            "name":"Bootstrap",
+            "icon":"bootstrap_logo.png"
+        },
+        {
+            "name":"JavaScript",
+            "icon":"Unofficial_JavaScript_logo_2.svg"
+        },
+        {
+            "name":"React",
+            "icon":"React-icon.svg"
+        },
+        {
+            "name":"Redux",
+            "icon":"redux-seeklogo.com.svg"
+        },
+        {
+            "name":"Node",
+            "icon":"Node.js_logo.svg"
+        }
+    ]
+}

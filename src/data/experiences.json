@@ -1,0 +1,35 @@
+{
+    "title":"Expériences",
+    "list":[
+        {
+            "year":"septembre 2009- Août 2017 ",
+            "desc":"Maintenance du réseau informatique au sein d’établissements scolaires",
+            "list":[
+                {
+                    "year":"sept. 2016-Aout2017",
+                    "desc":"Collège St-Exupery à Solesmes – Collège Jacques Prevert Masnières "
+                },
+                {
+                    "year":"sept. 2015-Aout2016",
+                    "desc":"Collège St-Exupery à Solesmes"
+                },
+                {
+                    "year":"sept. 2013-Aout2014",
+                    "desc":"Collège St-Exupery à Solesmes - Collège F.Villon Walincourt"
+                },
+                {
+                    "year":"sept. 2009-Aout2012",
+                    "desc":"Collège Jean-Rostand-LeCateau - Lycée Jacquard à Caudry"
+                }
+            ]
+        },
+        {
+            "year":"Juin 2009 - Juillet 2009",
+            "desc":"Formateur vacataire pour l’association RE-,ACTIFS"
+        },
+        {
+            "year":"Juin 2007 - Mai 2009",
+            "desc":"Maintenance du réseau informatique au sein de l’association RE-,ACTIFS -> CAMBRAI, CAUDRY,LECATEAU"
+        }
+    ]
+}
