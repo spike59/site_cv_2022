@@ -1,3 +1,4 @@
+import { TitleComponent } from "../../../display/title_component";
 import { HobbyComponent } from "./hobby_component";
 
 
@@ -9,7 +10,7 @@ export const HobbiesComponent = (props) => {
 
     return (
         <section>
-            <h2>{title}</h2>
+            <TitleComponent title={title} size="8.5"/>
             <div className="d-flex flex-wrap">
             
                 {hobbyComponents}

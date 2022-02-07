@@ -13,23 +13,22 @@ const HomePage = (props) => {
                 <HeadComponent {...head} />
                 {/* <div className="d-flex flex-wrap justify-content-around"> */}
                 <div className="row">
-                    <div className="col-12 col-md-4">
+                    <div className="col-12 col-md-4 mb-3">
                         <ProfilComponent {...profil} />
                     </div>
-                    <div className="col-8">
+                    <div className="col-12 col-md-8 mb-3">
                         <SkillsComponent {...skills} />
                     </div>
                 </div>
-                <div className="d-flex flex-wrap justify-content-around">
-                    <div className="">
+                <div className="row">
+                    <div className="col-12 col-md-6 mb-3">
                         <TimelineComponent {...experiences} />
                     </div>
-                    <div className="">
+                    <div className="col-12 col-md-6 mb-3">
                         <TimelineComponent {...formations} />
                     </div>
                 </div>
-                <div className="d-flex flex-wrap justify-content-around">
-                    
+                <div className="row">
                     <HobbiesComponent {...hobbies} />
                     <div></div>
                 </div>

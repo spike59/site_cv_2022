@@ -1,3 +1,4 @@
+import { TitleComponent } from "../../../display/title_component";
 
 export const ProfilComponent = (props) => {
     const {title,presentation} = props;
@@ -5,10 +6,8 @@ export const ProfilComponent = (props) => {
 
     return (
         <section>
-            <div id="test_bg"></div>
-            <h2>{title}</h2>
-            
-            {presentation}
+            <TitleComponent title={title}/>
+            <div className="section_content">{presentation}</div>
         </section>
     )
 }
