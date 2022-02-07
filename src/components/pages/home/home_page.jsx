@@ -11,11 +11,12 @@ const HomePage = (props) => {
         <div className="container">
             <Suspense fallback={<div>blabla1</div>}>
                 <HeadComponent {...head} />
-                <div className="d-flex flex-wrap justify-content-around">
-                    <div className="">
+                {/* <div className="d-flex flex-wrap justify-content-around"> */}
+                <div className="row">
+                    <div className="col-12 col-md-4">
                         <ProfilComponent {...profil} />
                     </div>
-                    <div className="">
+                    <div className="col-8">
                         <SkillsComponent {...skills} />
                     </div>
                 </div>

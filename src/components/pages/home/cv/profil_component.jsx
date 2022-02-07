@@ -4,8 +4,10 @@ export const ProfilComponent = (props) => {
 
 
     return (
-        <section>  
+        <section>
+            <div id="test_bg"></div>
             <h2>{title}</h2>
+            
             {presentation}
         </section>
     )

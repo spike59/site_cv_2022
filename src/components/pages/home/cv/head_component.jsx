@@ -3,7 +3,7 @@ export const HeadComponent = (props) => {
     const {name,title,avatar_image} = props;
 
     return (
-        <div className="d-flex justify-content-evenly">
+        <div className="d-flex justify-content-evenly mb-3">
             {/* <div className="col-1"></div> */}
             <div className="avatar ">
                 <img src={"images/avatars/" + avatar_image} alt="" />                

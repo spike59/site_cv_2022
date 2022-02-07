@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 .avatar {
   min-width:80px;
   
@@ -12,6 +16,9 @@ div img {
 .skill {
   width:60px;
   height:60px;
+  border:1px solid black;
+  border-radius: 5px;
+  padding:5px;
 }
 .timeline .circle{
   display:inline-block;
@@ -45,6 +52,20 @@ div img {
   left:-36px;
 }
 section {
-  max-width: 400px;
   margin-bottom:1em;
+}
+section h2 {
+  font-size: 2em;
+  text-align: center;
+}
+#test_bg {
+    position:absolute;
+    width: 150px;
+    height: 3em;
+    left:0;
+    right:0;
+    margin-left:250px;
+    transform:translate(-20px) skew(-30deg);
+    background: rgba(255, 0, 0, 0.349);
+  
 }

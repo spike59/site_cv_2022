@@ -10,7 +10,7 @@ export const SkillsComponent = (props) => {
     return (
         <section>
             <h2>{title}</h2>
-            <div className="d-flex flex-wrap">
+            <div className="d-flex flex-wrap justify-content-around">
                 {skillsComponents}
             </div>
         </section>
