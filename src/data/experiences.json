@@ -3,6 +3,10 @@
     "size":"14",
     "list":[
         {
+            "year":"Août 2021 - Octobre 2021",
+            "desc":"Developpeur de jeux Videos chez World Of knowledge,\nprototypage jeu en ligne avec unity en .net,\n configuration server multi instances,\n gestion de lobby et connexion multijoueurs avec photon/fusion,\n controles du personnage et synchronisation réseau/physique avec photon/fusion"
+        },
+        {
             "year":"septembre 2009- Août 2017 ",
             "desc":"Maintenance du réseau informatique au sein d’établissements scolaires",
             "list":[

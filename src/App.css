@@ -3,11 +3,17 @@
 }
 
 .avatar {
+  margin:auto;
   min-width:80px;
   
   min-height:80px;
   max-width:200px;
   max-height:200px;
+  
+}
+.avatar img {
+  border: 5px solid black;
+  border-radius: 50%;
 }
 div img {
   width:100%;
@@ -20,7 +26,7 @@ div img {
   border-radius: 5px;
   padding:5px;
 }
-.timeline .circle{
+.timeline .circle0{
   display:inline-block;
   width:16px;
   height:16px;
@@ -34,7 +40,21 @@ div img {
   position:relative;
   z-index:2;
 }
-
+.timeline .circle{
+  display:inline-block;
+  width:16px;
+  height:16px;
+  margin-top:14px;
+  margin-bottom:0px;
+  margin-left:7px;
+  margin-right:7px;
+  /* border-radius: 50%; */
+  background-color: rgb(4,125,197);
+  box-shadow: inset 0 0 0 1000px rgb(4,125,197);
+  position:relative;
+  z-index:2;
+  transform:translate(0em) skew(-30deg);
+}
 .timeline .v_ligne {
   height:100%;
   min-height: 100%;
@@ -56,7 +76,7 @@ section {
   /* background-color: aliceblue;
   z-index:-2; */
 }
-section h2 {
+section>h2 {
   font-size: 2em;
   text-align: center;
   
@@ -103,12 +123,21 @@ section h2 {
   z-index:-1;
   
   background: rgba(255, 255, 255, 0.466);
-  border-top:1px solid rgb(0, 0, 129);
-  border-bottom:1px solid rgb(0, 0, 129);  
-  border-left:10px solid rgb(0, 0, 129);
-  border-right:10px solid rgb(0, 0, 129);
+  border-top:1px solid rgb(4,125,197);
+  border-bottom:1px solid rgb(4,125,197);  
+  border-left:10px solid rgb(4,125,197);
+  border-right:10px solid #047dc5;
 
 }
 .section_content {
     background-color: aliceblue;
+}
+.info {
+  display:flex;
+  align-items: center;
+}
+.info i {
+  width:30px;
+  height:30px;
+  margin:10px;
 }

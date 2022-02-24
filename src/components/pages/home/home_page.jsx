@@ -10,13 +10,15 @@ const HomePage = (props) => {
     return (
         <div className="container">
             <Suspense fallback={<div>blabla1</div>}>
-                <HeadComponent {...head} />
+                <div className="row align-items-center mb-3 ">
+                    <HeadComponent {...head} />
+                </div>
                 {/* <div className="d-flex flex-wrap justify-content-around"> */}
                 <div className="row">
-                    <div className="col-12 col-md-4 mb-3">
+                    <div className="col-12 col-md-6 mb-3">
                         <ProfilComponent {...profil} />
                     </div>
-                    <div className="col-12 col-md-8 mb-3">
+                    <div className="col-12 col-md-6 mb-3">
                         <SkillsComponent {...skills} />
                     </div>
                 </div>
@@ -30,7 +32,6 @@ const HomePage = (props) => {
                 </div>
                 <div className="row">
                     <HobbiesComponent {...hobbies} />
-                    <div></div>
                 </div>
             </Suspense>
         </div>

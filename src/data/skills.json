@@ -33,6 +33,18 @@
         {
             "name":"Node",
             "icon":"Node.js_logo.svg"
+        },
+        {
+            "name":".net",
+            "icon":"net.svg"
+        },
+        {
+            "name":"mysql",
+            "icon":"mysql-icon.svg"
+        },
+        {
+            "name":"Unity",
+            "icon":"unity.svg"
         }
     ]
 }
