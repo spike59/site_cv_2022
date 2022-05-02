@@ -1,22 +1,39 @@
 {
-    "title":"Formation",
-    "size":"12.5",
+    "title":"Formations",
+    "size":"13.5",
     "list":[
         {
             "year":"2021-2022",
-            "desc":"Titre de Concepteur Développeur d'applications (bac+3/+4)"
+            "desc":"Titre de Concepteur Développeur d'applications (bac+4)",
+            "list":[
+                {"desc":"Développement en couches, Microservices"},
+                {"desc":"Méthodes Agiles, Systeme de version Git, travail en équipe"},
+                {"desc":"JS: React, Node, Express et Mysql/phpMyAdmin"},
+                {"desc":"C#: Asp.net, EntityFramework et MS SQL/SQL SERVER"}
+            ]
         },
         {
             "year":"2020",
-            "desc":"Formation courte React/Java"
+            "desc":"Formation courte React/Java",
+            "list":[
+                {"desc":"React, Redux, TypeScript"}
+            ]
         },
         {
             "year":"2004",
-            "desc":"Titre de développeur intranet/internet (bac+2)"
+            "desc":"Titre de développeur intranet/internet (bac+2)",
+            "list":[
+                {"desc":"Analyse conception de données, MCD/MLD, SQL"},
+                {"desc":"Modélisation, UML, Langage Objet (JAVA )"},
+                {"desc":"Archicture Web XAMPP, vanilla php"}
+            ]
         },
         {
             "year":"2002",
-            "desc":"D.U.T. Gestion de la production"
+            "desc":"D.U.T. Gestion de la production",
+            "list":[
+                {"desc":"Methodes GANTT, KANKAN"}
+            ]
         },
         {
             "year":"2000",

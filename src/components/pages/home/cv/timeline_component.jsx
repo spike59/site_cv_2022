@@ -11,7 +11,7 @@ export const TimelineComponent = (props) => {
     return (
         <section className="mb-3">
             <TitleComponent title={title}  size={size}/>
-            <div className="d-flex flex-column">
+            <div className="d-flex flex-column "  id= "timeline_content" >
                 {timeComponents}
             </div>
         </section>

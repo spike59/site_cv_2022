@@ -23,28 +23,32 @@
             "icon":"Unofficial_JavaScript_logo_2.svg"
         },
         {
-            "name":"React",
-            "icon":"React-icon.svg"
-        },
-        {
-            "name":"Redux",
-            "icon":"redux-seeklogo.com.svg"
-        },
-        {
             "name":"Node",
             "icon":"Node.js_logo.svg"
+        },
+        {
+            "name":"React",
+            "icon":"react-logo.png"
+        },
+        {
+            "name":"mysql",
+            "icon":"cdnlogo.com_mysql.svg"
+        },
+        {
+            "name":"C#",
+            "icon":"cdnlogo.com_c.svg"
         },
         {
             "name":".net",
             "icon":"net.svg"
         },
         {
-            "name":"mysql",
-            "icon":"mysql-icon.svg"
+            "name":"MsSQL",
+            "icon":"kisspng-microsoft-sql-server.png"
         },
         {
             "name":"Unity",
-            "icon":"unity.svg"
+            "icon":"cdnlogo.com_unity-technologies.svg"
         }
     ]
 }

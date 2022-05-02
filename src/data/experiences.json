@@ -4,7 +4,21 @@
     "list":[
         {
             "year":"Août 2021 - Octobre 2021",
-            "desc":"Developpeur de jeux Videos chez World Of knowledge,\nprototypage jeu en ligne avec unity en .net,\n configuration server multi instances,\n gestion de lobby et connexion multijoueurs avec photon/fusion,\n controles du personnage et synchronisation réseau/physique avec photon/fusion"
+            "desc":"Développeur de jeux Vidéos chez World Of knowledge",
+            "list":[
+                {
+                    "desc":"prototypage jeu en ligne avec unity en C#"
+                },
+                {
+                    "desc":"prototypage/configuration du serveur d'instances"
+                },
+                {
+                    "desc":"connexion multijoueur avec photon/fusion"
+                },
+                {
+                    "desc":"contrôles du personnage/camera et synchronisation réseau/physique avec photon/fusion"
+                }
+            ]
         },
         {
             "year":"septembre 2009- Août 2017 ",

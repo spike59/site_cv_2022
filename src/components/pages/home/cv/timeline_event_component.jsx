@@ -26,7 +26,7 @@ export const TimelineEventComponent = (props) => {
                 </div>
                 <div className="ms-2">
                     <h2>{year}</h2>
-                    <p>{descToLines(desc)}</p>
+                    <div className="fw-bold">{descToLines(desc)}</div>
                     <ul>
                         {listItems}
                     </ul>
@@ -43,7 +43,7 @@ export const TimelineEventComponent = (props) => {
                 </div>
                 <div className="ms-2">
                     <h2>{year}</h2>
-                    <p>{descToLines(desc)}</p>
+                    <div className="fw-bold">{descToLines(desc)}</div>
                 </div>
             </div>
         )

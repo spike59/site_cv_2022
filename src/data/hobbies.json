@@ -4,27 +4,27 @@
     "list":[
         {
             "desc":"animation", 
-            "iconClass":"fafa"
+            "svg":"Manga_Entertainment.svg"
         },
         {
             "desc":"jeux-videos", 
-            "iconClass":"fas fa-gamepad"
+            "svg":"Gamepad.svg"
         },
         {
-            "desc":"animation", 
-            "iconClass":"fafa"
+            "desc":"impression 3d", 
+            "svg":"IMPRESSIOIN_3D_INNOPRODUCT.png"
         },
         {
-            "desc":"animation", 
-            "iconClass":"fafa"
+            "desc":"blender", 
+            "svg":"Blender_logo_no_text.svg"
         },
         {
-            "desc":"animation", 
-            "iconClass":"fafa"
+            "desc":"Original soundtracks", 
+            "svg":"ost.png"
         },
         {
-            "desc":"animation", 
-            "iconClass":"fafa"
+            "desc":"barbecue", 
+            "svg":"barbecue-svgrepo-com.svg"
         }    
     ]
 }

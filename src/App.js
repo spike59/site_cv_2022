@@ -1,5 +1,5 @@
-import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
+import './App.css';
 import React, { Suspense } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Layout from './components/layout/layout';
