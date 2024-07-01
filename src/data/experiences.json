@@ -3,6 +3,45 @@
     "size":"14",
     "list":[
         {
+            "year":"Juillet 2023 - Aujourd'hui",
+            "desc":"Mission chez Elosi",
+            "list":[
+                {
+                    "desc":"Integration du moteur Babylon.js dans un wrapper typescript adapté au métier\nOptimisation des performances"
+                },
+                {
+                    "desc":"Operations d'automatisation d'image disque, notamment avec docker et du scripting bash"
+                },
+                {
+                    "desc":"Integration babylonjs et image blender-docker en tant qu'outils dans une solution interne"
+                }
+            ]
+        },
+        {
+            "year":"juillet 2022 - juin 2023",
+            "desc":"Mission chez Elosi",
+            "list":[
+                {
+                    "desc":"Developement et maintenance sur une plateforme sass, methodes agiles, micro services, design system"
+                },
+                {
+                    "desc":"Methodes de travail agiles, tickets jira, poker, deploiements alternés, google cloud platform"
+                },
+                {
+                    "desc":"Outils kubernetes, back: node.js, db: postgres, mongo, front:vue.js "
+                }
+            ]
+        },
+        {
+            "year":"mai 2022 - juillet 2022",
+            "desc":"Stage chez Elosi",
+            "list":[
+                {
+                    "desc":"developement vue.js"
+                }
+            ]
+        },
+        {
             "year":"Août 2021 - Octobre 2021",
             "desc":"Développeur de jeux Vidéos chez World Of knowledge",
             "list":[

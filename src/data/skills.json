@@ -7,8 +7,8 @@
             "icon":"HTML5_logo_and_wordmark.svg"
         },
         {
-            "name":"CSS3",
-            "icon":"CSS3_logo_and_wordmark.svg"
+            "name":"Babylonjs",
+            "icon":"Babylon_logo.png"
         },
         {
             "name":"Sass",
@@ -43,8 +43,8 @@
             "icon":"net.svg"
         },
         {
-            "name":"MsSQL",
-            "icon":"kisspng-microsoft-sql-server.png"
+            "name":"Docker",
+            "icon":"docker.svg"
         },
         {
             "name":"Unity",
