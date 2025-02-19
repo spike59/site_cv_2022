@@ -66,8 +66,8 @@
             ]
         },
         {
-            "year":"septembre 2009- Août 2017 ",
-            "desc":"Maintenance du réseau informatique au sein d’établissements scolaires",
+            "year":"Juin 2007 - Août 2017 ",
+            "desc":"Maintenance de réseau informatique",
             "list":[
                 {
                     "year":"sept. 2016-Aout2017",
@@ -84,16 +84,12 @@
                 {
                     "year":"sept. 2009-Aout2012",
                     "desc":"Collège Jean-Rostand-LeCateau - Lycée Jacquard à Caudry"
+                },
+                {
+                    "year":"Juin 2007 - Mai 2009",
+                    "desc":"Maintenance du réseau informatique au sein de l’association RE-,ACTIFS -> CAMBRAI, CAUDRY,LECATEAU"
                 }
             ]
-        },
-        {
-            "year":"Juin 2009 - Juillet 2009",
-            "desc":"Formateur vacataire pour l’association RE-,ACTIFS"
-        },
-        {
-            "year":"Juin 2007 - Mai 2009",
-            "desc":"Maintenance du réseau informatique au sein de l’association RE-,ACTIFS -> CAMBRAI, CAUDRY,LECATEAU"
         }
     ]
 }
