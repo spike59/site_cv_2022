@@ -1,6 +1,11 @@
 {
     "title":"Profil",
-    "presentation":"Chez Elosi, actuellement en mission Chez Ciuch.",
+    "presentationA":"J'ai le plaisir d'avoir rejoint le ",
+    "link":{
+        "uri":"https://www.ciuch.com/fr/",
+        "text":"Groupe Ciuch"
+    },
+    "presentationB":" en Septembre 2024.",
     "infos":{
         "auto":"Permis B, voiture",
         "mel":"adam.kassir@gmail.com",

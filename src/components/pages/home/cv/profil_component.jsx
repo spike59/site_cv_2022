@@ -1,13 +1,13 @@
 import { TitleComponent } from "../../../display/title_component";
 
 export const ProfilComponent = (props) => {
-    const {title,presentation,infos} = props;
+    const {title,presentationA,link,presentationB,infos} = props;
 
 
     return (
         <section>
             <TitleComponent title={title}/>
-            <div className="section_content">{presentation}</div>
+            <div className="section_content">{presentationA}<a href="{link.uri}">{link.text}</a>{presentationB}</div>
             <div className="row">
                 <div className="col-4 info">
                     <i className="fas fa-car-side"></i>
